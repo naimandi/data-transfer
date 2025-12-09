@@ -1,0 +1,80 @@
+apt,batch,city,conductivity,conductivity1_uscm,conductivity5_uscm,Cu_of_AAS,Cu_of_AAS1_ppm,Cu_of_AAS5_ppm,Cu_of_E_Tongue,Cu_of_E_Tongue1_ppm,Cu_of_E_Tongue5_ppm,liter,Pb_of_AAS,Pb_of_AAS1_ppb,Pb_of_AAS5_ppb,Pb_of_E_Tongue,Pb_of_E_Tongue1_ppb,Pb_of_E_Tongue5_ppb,pH_after_acidification,pH_after_acidification1,pH_after_acidification5,pH_before_acidification,pH_before_acidification1,pH_before_acidification5,sample,Sample_location,state,street_name,Street_num,turbidity,turbidity1_NTU,turbidity5_NTU,zip
+,2,Andover,,512,512,,'-0.01,'-0.02,,,,,,0.1,'-0.2,,,,,,,,,,6,Kitchen,MA,Reservation Road,"""69 """,,0.03,0.02,1810
+,10,Lowell,,226.5,226.5,,0.02,0,,,,,,'-0.61,'-0.77,,,,,,,,,,7,,MA,Broadway Street,780,,0.02,0.05,1854
+Floor 1,4,Lowell,,240,238,,'-0.02,'-0.02,,,,,,'-0.54,'-0.56,,,,,,,,,,2,Kitchen,MA,Phebe ave,19,,0.04,0.02,1854
+,6,Lawrence,,202.8,202.3,,0.06,0,,,,,,0.68,'-0.82,,,,,,,,,,11,Kitchen,MA,Tyler Street,52,,0.21,0.08,1843
+,3,Andover,,504,508,,0.05,0.03,,,,,,'-0.3,'-0.2,,,,,,,,,,6,Kitchen,Massachusetts,Burton Farm Drive,23,,0.05,0.05,1810
+,7,Lowell,,217.3,210.5,,0.13,'-0.11,,,,,,25.2,'-0.24,,,,,,,,,,6,,MA,Beacon Street,56,,0.22,0.11,1850
+,1,Andover,,500,494,,0.03,0,,,,,,1.8,'-0.5,,,,,,,,,,3,,MA,Pleasant Street,43,,0,0,1810
+,6,Lowell,,218.2,222.5,,'-0.02,'-0.01,,,,,,'-0.91,'-0.93,,,,,,,,,,5,,MA,Crowley Street,18,,0.04,0.04,1852
+1,7,Lowell,,200.7,192.8,,'-0.03,'-0.05,,,,,,'-1.34,'-1.35,,,,,,,,,,2,Kitchen,MA,Bridge Street,824,,0.01,0.02,1850
+,1,Lowell,,290,292,,'-0.01,'-0.01,,,,,,'-0.8,'-0.8,,,,,,,,,,7,Kitchen,MA,"""University Ave. ""","""195 """,,0,0.01,1854
+134,2,Dracut,,290,290,,'-0.02,'-0.03,,,,,,'-0.4,'-0.6,,,,,,,,,,8,Kitchen,MA,Merrimack Ave,100,,0.03,0.02,1826
+Apt 3,5,Lowell,,234,226,,'-0.04,'-0.04,,,,,,'-0.7,'-0.65,,,,,,,,,,5,Kitchen,Ma,"""Richardson St ""","""77 """,,0.01,0,1850
+3,10,Lowell,,217.7,219.6,,'-0.01,0,,,,,,'-0.31,0.32,,,,,,,,,,6,,MAss,Queen,"""15 """,,0.05,0.08,1851
+,7,Lawrence,,211.1,214.2,,0.04,0,,,,,,'-1.05,'-0.89,,,,,,,,,,1,Kitchen,"""Massachusetts ""","""Belknap Street """,14,,0.5,0,1843
+22,1,Dracut,,318,320,,'-0.01,'-0.01,,,,,,0.2,0.3,,,,,,,,,,8,Kitchen,MA,Skyline Drive,930,,0.07,0.15,1845
+404,9,Lowell,,185,184.3,,'-0.06,'-0.06,,,,,,'-0.09,'-0.01,,,,,,,,,,1,,Ma,Shattuck st,"""1 """,,0.02,0.02,1852
+,7,Lowell,,209.4,203.9,,'-0.09,'-0.1,,,,,,'-1.44,'-1.34,,,,,,,,,,4,,MA,West London Street,251,,0.04,0.02,1852
+,3,Andover,,504,504,,0.01,0,,,,,,0.1,'-0.4,,,,,,,,,,5,Kitchen,MA,Argilla Rd,145,,0.2,0.17,1810
+,1,Andover,,504,504,,0,0,,,,,,'-0.7,'-0.8,,,,,,,,,,4,,MA,Mohawk Road,32,,0,0.01,1810
+,8,Andover,,426.5,428.8,,0.02,0.01,,,,,,0.99,0.48,,,,,,,,,,5,,MA,Hampton Lane,"""10 """,,0.02,0.08,1810
+2,8,Lowell,,209.4,215.4,,0.02,0,,,,,,5.77,'-0.02,,,,,,,,,,1,Bathroom,Ma,Dublin street,1,,0.05,0.02,1854
+,5,Lawrence,,200,204,,'-0.03,'-0.03,,,,,,'-0.65,'-0.61,,,,,,,,,,3,Kitchen,MA,Mount Vernon Street,"""467 """,,0.01,0.01,01843-3005
+,10,Andover,,387,389.3,,0.08,0.04,,,,,,1.09,'-0.07,,,,,,,,,,1,Kitchen,Massachusetts,Stevens Street,"""74 """,,0.07,0.09,1810
+2R,2,Lowell,,266,262,,'-0.02,'-0.03,,,,,,'-0.3,'-0.5,,,,,,,,,,7,Kitchen,MA,White Street,133,,0,0,1854
+408,8,,,206.1,201.7,,'-0.03,'-0.03,,,,,,'-0.09,'-0.07,,,,,,,,,,6,,Ma,"""Shattuck st. """,1,,0.01,0.03,1852
+,6,Andover,,512,504,,0.03,0.02,,,,,,1.35,'-0.12,,,,,,,,,,1,Kitchen,MA,Mercury Cir,"""7 """,,0.03,0.02,1810
+,5,Lowell,,268,268,,'-0.02,'-0.04,,,,,,'-0.48,'-0.7,,,,,,,,,,8,Kitchen,Massachusetts,Ruth Street,28,,0.05,0,1851
+,3,Andover,,504,504,,0.01,0.01,,,,,,1.9,1,,,,,,,,,,2,Kitchen,MA,Bayberry Ln,7,,0.01,0.07,1810
+,3,Andover,,508,508,,0,'-0.02,,,,,,0.6,0,,,,,,,,,,4,Kitchen,MA,High Plain Road,36,,0.07,0.11,1810
+B,6,Lowell,,219.6,223.2,,'-0.02,'-0.02,,,,,,'-0.86,'-0.95,,,,,,,,,,10,,MA,Crowley Street,18,,0.04,0.01,1852
+3,6,Lowell,,207.5,209.5,,'-0.02,'-0.02,,,,,,'-0.55,'-0.48,,,,,,,,,,6,,MA,"""willie st """,11,,0.02,0.03,1854
+406,9,Lowell,,186.4,186.3,,'-0.06,'-0.04,,,,,,0.43,4.31,,,,,,,,,,6,Kitchen,Massachusetts,1shattuck st,1shattuck St.,,0.01,0.02,1852
+Apt 4,Batch1,Boston,5.5,,,0.02,,,0.04,,,2,0.03,,,0.05,,,6.5,,,7,,,Sample1,Location1,MA,Main St,123,1.2,,,2101
+B,5,Lowell,,264,264,,'-0.03,'-0.04,,,,,,0.34,0.04,,,,,,,,,,7,Kitchen,MA,White,49,,0.01,0.01,1854
+,10,Lowell,,199.4,200.5,,0.04,0.01,,,,,,'-0.32,'-0.46,,,,,,,,,,4,Bathroom,Massachusetts,Endicott St.,162,,0.06,0.04,1854
+,2,Andover,,512,512,,0.06,0.01,,,,,,'-0.3,'-0.5,,,,,,,,,,5,Kitchen,MA,Oak St,23,,0.06,0.03,1810
+,4,Andover,,508,512,,0.01,'-0.01,,,,,,'-0.09,'-0.49,,,,,,,,,,5,Kitchen,MA,Stinson,31,,0.04,0.2,1810
+,10,Andover,,385.1,383.3,,0.05,0.02,,,,,,0.51,'-0.13,,,,,,,,,,3,Kitchen,MA,Riverina Road,"""18 """,,0.03,0,1810
+,1,Andover,,512,512,,'-0.01,'-0.01,,,,,,'-0.7,'-0.9,,,,,,,,,,5,Kitchen,MA,Hartford Cir,5,,0.01,0,1810
+,9,Lowell,,182.6,184.5,,'-0.08,'-0.09,,,,,,'-0.46,'-1.04,,,,,,,,,,3,Bathroom,MA,W London Street,249,,0.04,0.03,1852
+Apt 103,5,Dracut,,268,260,,'-0.01,'-0.03,,,,,,'-0.63,'-0.63,,,,,,,,,,4,Kitchen,MA,School Street,"""60 """,,0.03,0,1826
+,5,Lowell,,284,284,,0.04,'-0.01,,,,,,4.27,1.28,,,,,,,,,,1,,MA,High Street,"""434 """,,0.49,0.05,1852
+Unit 54,6,Lowell,,276,270,,'-0.03,'-0.04,,,,,,'-0.57,'-0.76,,,,,,,,,,2,Kitchen,MA,Pawtucket Blvd,1217,,0,0.01,1854
+,5,Dracut,,276,284,,0.02,'-0.03,,,,,,'-0.12,'-0.55,,,,,,,,,,9,Bathroom,Massachusetts,Bridge Street,1974,,0.08,0.01,1826
+Apt 1,3,Lowell,,226,224,,'-0.01,'-0.02,,,,,,'-0.4,'-0.4,,,,,,,,,,3,Kitchen,MA,Crawford St,47,,0.03,0.03,1854
+,6,Lowell,,216.1,215.4,,'-0.02,'-0.01,,,,,,'-0.85,'-0.88,,,,,,,,,,4,,MA,Puffer Street,25,,0.04,0.01,1851
+,6,Lowell,,222.2,215.3,,0,'-0.01,,,,,,'-0.12,'-0.94,,,,,,,,,,7,,MA,Shedd Street,40,,0.05,0.03,1850
+,6,Lowell,,221.2,221.4,,'-0.01,'-0.02,,,,,,'-0.08,'-0.65,,,,,,,,,,9,,MA,Middlesex Street,1093,,0.04,0.05,1852
+,1,Andover,,512,508,,0,'-0.01,,,,,,'-0.4,'-0.7,,,,,,,,,,2,Kitchen,Massachusetts,Porter Road,"""24 """,,0,0.01,1810
+,4,Lowell,,246,212,,'-0.02,'-0.02,,,,,,'-0.59,'-0.63,,,,,,,,,,4,Kitchen,MA,Beacon St,132,,0.15,0,01850-2557
+,4,Dracut,,218,206,,'-0.01,'-0.01,,,,,,'-0.62,'-0.6,,,,,,,,,,6,Kitchen,Ma,Bridge st,"""1572 """,,0.02,0.01,1826
+B,3,Lowell,,264,264,,0,'-0.01,,,,,,'-0.3,'-0.2,,,,,,,,,,1,Kitchen,MA,Beacon St.,349,,0.02,0.03,1850
+apt,batch,city,conductivity,conductivity1_uscm,conductivity5_uscm,Cu_of_AAS,Cu_of_AAS1_ppm,Cu_of_AAS5_ppm,Cu_of_E_Tongue,Cu_of_E_Tongue1_ppm,Cu_of_E_Tongue5_ppm,liter,Pb_of_AAS,Pb_of_AAS1_ppb,Pb_of_AAS5_ppb,Pb_of_E_Tongue,Pb_of_E_Tongue1_ppb,Pb_of_E_Tongue5_ppb,pH_after_acidification,pH_after_acidification1,pH_after_acidification5,pH_before_acidification,pH_before_acidification1,pH_before_acidification5,sample,Sample_location,state,street_name,Street_num,turbidity,turbidity1_NTU,turbidity5_NTU,"zip"
+,5,Dracut,,452,442,,0,0.03,,,,,,'-0.8,'-0.89,,,,,,,,,,10,Kitchen,Massachusetts,Royal Ave,21,,0.14,0.02,1826
+,9,Andover,,397.7,397.5,,'-0.07,'-0.07,,,,,,4.38,0.06,,,,,,,,,,5,Kitchen,MA,Binney Street,10,,0.03,0.02,1810
+,2,Lowell,,276,276,,0,0,,,,,,0.1,'-0.4,,,,,,,,,,1,Kitchen,MA,Gershom Ave.,83,,0.02,0.01,1854
+2R,2,Lowell,,268,262,,'-0.03,'-0.03,,,,,,'-0.3,'-0.5,,,,,,,,,,4,Kitchen,Massachusetts,Fourth Avenue,102,,0,,1854
+114,5,Lowell,,268,272,,'-0.01,'-0.02,,,,,,'-0.73,'-0.99,,,,,,,,,,11,,Ma,"""Adams st ""","""402 """,,0.03,0,1854
+,1,Andover,,516,508,,0.07,0.03,,,,,,'-0.1,0.2,,,,,,,,,,6,,MA,Rocky Hill Avenue,28,,0.01,0.01,1810
+,10,Lowell,,226.5,223.2,,0.01,0.01,,,,,,'-0.04,'-0.63,,,,,,,,,,8,,""" Massachusetts""",Christian Street,201,,0,0.02,1850
+,2,Dracut,,404,400,,0.19,0.11,,,,,,'-0.2,'-0.3,,,,,,,,,,3,Kitchen,"""MA ""","""Beaver Brook Lane """,15,,0.18,0.03,1826
+1,10,Lowell,,208.3,214.7,,'-0.01,'-0.01,,,,,,'-0.52,'-0.95,,,,,,,,,,5,,Mass,Lane street,26,,0.01,0.01,1851
+,1,Andover,,504,508,,0.03,0,,,,,,5.6,'-0.2,,,,,,,,,,1,Bathroom,MA,Blanchard St,"""49 """,,0.01,0.01,1810
+,5,Andover,,512,512,,0.02,0.04,,,,,,0.17,'-0.24,,,,,,,,,,6,Kitchen,MA,Arundel St.,18,,0.01,0.01,1810
+Unit 1,4,Lowell,,242,242,,0,'-0.01,,,,,,'-0.6,'-0.65,,,,,,,,,,1,Kitchen,MA,Cork St,"""46 """,,0.02,0.02,1854
+,5,Lowell,,248,246,,0.01,'-0.01,,,,,,'-1.08,'-1.19,,,,,,,,,,12,Kitchen,MA,PRINCETON BLVD,350,,0.05,0.03,1851
+,8,Lowell,,221,213,,0,0.03,,,,,,0.96,'-0.24,,,,,,,,,,3,Kitchen,"""Ma ""","""Rivers Edge Rd ""","""8 """,,0.05,0.02,1852
+,3,Andover,,500,504,,0.05,0.01,,,,,,0.1,3.4,,,,,,,,,,7,Kitchen,Massachusetts,Ballardvale Road,103,,0.07,0.03,1810
+301,9,Lowell,,190.8,184.9,,'-0.06,'-0.06,,,,,,'-0.15,'-0.23,,,,,,,,,,2,Kitchen,"""Massachusetts """,shattuck st,1,,0.03,0.07,1852
+,10,Lowell,,206.3,204.7,,0.02,0.01,,,,,,'-0.33,'-0.37,,,,,,,,,,2,,"""Massachusetts """,S Loring St,23,,0.02,0.01,1851
+,4,Lowell,,226,226,,'-0.01,'-0.02,,,,,,'-0.47,'-0.64,,,,,,,,,,3,Kitchen,MA,Canton St,68,,0,0,1851
+,2,Lowell,,314,312,,0.01,0,,,,,,0.4,'-0.2,,,,,,,,,,2,Kitchen,Ma,"""  """,81 Wollaston St,,0.1,0.1,1852
+,8,Andover,,418.1,417.3,,0.03,0.01,,,,,,0.09,'-0.19,,,,,,,,,,4,Kitchen,MA,Smithshire Est,20,,0.02,0.03,1810
+412,9,,,217.4,218.8,,'-0.05,'-0.06,,,,,,'-0.26,'-0.32,,,,,,,,,,7,Kitchen,"""Massachusetts """,1 shattuck st.,1 shattuck st.,,0.04,0.01,1852
+2,7,Lowell,,210,217.4,,'-0.13,'-0.12,,,,,,'-0.95,0.07,,,,,,,,,,5,,MA,School Street,92,,0.01,0,1854
+,5,Lowell,,290,290,,'-0.02,'-0.03,,,,,,'-0.45,'-0.32,,,,,,,,,,2,,MA,Surrey Lane,43,,0.03,0.02,1852
+,7,Lowell,,217.1,216.3,,'-0.06,'-0.05,,,,,,'-0.85,'-0.12,,,,,,,,,,3,,"""Ma ""","""Rivera Edge Rd ""","""8 """,,0.02,0.03,1852
+,6,Lowell,,225.4,221.9,,'-0.02,'-0.02,,,,,,'-0.66,'-0.5,,,,,,,,,,8,,MA,Agawam Street,30,,0.12,0.04,1852
+,6,Andover,,410.7,423.3,,0,'-0.01,,,,,,'-0.70,'-0.60,,,,,,,,,,3,Kitchen,MA,Summer Street,"""5 """,,0.05,0.04,1810
