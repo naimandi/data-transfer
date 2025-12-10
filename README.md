@@ -32,11 +32,14 @@ Both the source and target datasets contains drinking water quality measurements
    - Street Number: 32%  
    - City: 8%  
 
-4. **Transfer Data:**  
-   For each matched address, transfer water quality measurements from the MS Teams dataset to the AWS dataset.  
+    A match is considered valid if the weighted similarity score meets or exceeds a threshold of **85.5**.  
 
-5. **Optional:** Optional Address Matching
-    This step uses a weighted fuzzy matching algorithmto identify the closest matches between the source dataset and the target dataset based on cleaned addresses. It allows you to review which addresses were successfully matched and which were not, before transferring data. This step is optional but recommended for auditing the matching process and ensuring high-quality data transfer.
+4. **Transfer Data:**  
+For each matched address, transfer water quality measurements from the source dataset to the target dataset. Addresses that do not meet the threshold are not automatically transferred and may require manual review.
+
+5. **Optional:** Optional Matching Reports  
+   This step uses a weighted fuzzy matching algorithm to identify the closest matches between the source dataset and the target dataset based on cleaned addresses. It produces files wiht a list of **matched** and **non-matched** addresses, allowing you to review which rows were successfully matched and which may need to be transferred manually because they did not meet the address matching threshold.
+
 
 ## Scripts
 
@@ -48,12 +51,12 @@ output files:
 `data_transfer.py`: Matches addresses between the cleaned source data and target data using a weighted fuzzy similarity score, transfers measurement data from the source to the target for matched addresses, and saves the updated dataset for further use.
 output files:
 - `output/target_with_updated_info.xlsx`
-- `artifacts/source_with_new_address.xlsx`(updated with `Modified Address`, which is the address with apartment/unit information removed)
+- `artifacts/source_with_new_address.xlsx`(updated with `Modified Address`, which is the address with apartment/unit information removed for matching)
 - `artifacts/target_with_new_address.xlsx` (updated with `Modified Address`)
 
 `matching.py`:  Performs fuzzy matching between source and target `Address` columns using a weighted similarity score, identifies matched and unmatched addresses based on a threshold, and saves the results for further analysis.
 output files:
 - `artifacts/address_matching_results_85.5.xlsx` – addresses above the threshold. 
-- `artifacts/address_matched_85.5.xlsx` –  addresses above the threshold sorted by threshold
+- `artifacts/address_matched_85.5.xlsx` –  addresses above the threshold sorted by similarity score
 - `artifacts/address_not_matched_85.5.xlsx` – addresses below the threshold.  
 
