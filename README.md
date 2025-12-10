@@ -5,12 +5,16 @@ This project automates the process of transferring drinking water quality data f
 ## Data 
 Both the source and target datasets contains drinking water quality measurements collected from Massachusetts and New Hampshire. 
 
-**Source Data:** (Excel): where new data is present
+**Source Data:** (Excel): contains updated data
+
 **Filename:** `source_data.xlsx`
+
 **Columns include:** `Batch`, `Sample`, `Street Number`, `Street Name`, `Apt`, `City`, `State`, `Zip Code`,  along with various pH, conductivity, turbidity, Pb/Cu measurements, etc.
 
 **Target Data** (CSV): where the data will be updated or consolidated.
+
 **Filename:** `target_data.csv`
+
 **Columns include:** `apt`, `batch`, `city`, `sample`, `state`, `street_name`,`street_num`, `zip`, along with corresponding pH, conductivity, turbidity, and Pb/Cu measurement fields.
 
 ## Workflow
