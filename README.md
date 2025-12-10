@@ -1,9 +1,9 @@
-# Water Quality Data Transfer
+# Drinking Water Quality Data Transfer
 
-This project automates the process of transferring water quality data from a source dataset to a target dataset. 
+This project automates the process of transferring drinking water quality data from a source dataset to a target dataset. 
 
 ## Data 
-Both the source and target datasets contains water quality measurements collected from Massachusetts and New Hampshire. 
+Both the source and target datasets contains drinking water quality measurements collected from Massachusetts and New Hampshire. 
 
 **Source Data:** (Excel): where new data is present
 **Filename:** `source_data.xlsx`
