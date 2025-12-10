@@ -12,7 +12,7 @@ Both the source and target datasets contains drinking water quality measurements
 **Columns include:** `Batch`, `Sample`, `Street Number`, `Street Name`, `Apt`, `City`, `State`, `Zip Code`,  along with various pH, conductivity, turbidity, Pb/Cu measurements, etc.
 
 
-**Target Data** (CSV): where the data will be updated or consolidated.
+**Target Data** (CSV): where the data will be transferred and consolidated.
 
 **Filename:** `target_data.csv`
 
